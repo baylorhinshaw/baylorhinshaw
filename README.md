@@ -31,9 +31,9 @@ src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" 
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Baylor's GitHub Stats</summary>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Baylor's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </details>
 
