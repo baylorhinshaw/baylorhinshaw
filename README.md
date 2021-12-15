@@ -2,8 +2,7 @@
 
 ## I'm a Software Engineer, currently finishing a full stack coding bootcamp at Georgia Tech University [🐝][course]
 - 🥳 I finish the bootcamp February 2022 
-- 📝 Improving everyday 
-- 👨‍🎨 Interested in UX and UI design
+- 📝 Striving to improve everyday 
 
 ### Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
