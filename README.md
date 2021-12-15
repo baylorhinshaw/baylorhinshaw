@@ -1,4 +1,4 @@
-# Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Baylor
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Baylor
 
 ## I'm a Software Engineer, currently finishing a full stack coding bootcamp at Georgia Tech University [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fgeorgia-tech-yellow-jackets-logo%2F&psig=AOvVaw0jgm48LykJlxxG2874BogF&ust=1639623280519000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICzouzm5PQCFQAAAAAdAAAAABAD" width="20"/>][course]
 - 🥳 I finish the bootcamp February 2022 
