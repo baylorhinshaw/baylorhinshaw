@@ -6,7 +6,7 @@
 
 ### Connect with me:
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="mail | Mail" width="22px" src="https://cdn-icons.flaticon.com/png/512/542/premium/542689.png?token=exp=1639541656~hmac=0e8587adcf668f670253b13b291970bd" />][mail]
+[<img align="left" alt="mail | Mail" width="22px" src="https://cdn-icons-png.flaticon.com/128/546/546394.png" />][mail]
 
 <br/>
 
