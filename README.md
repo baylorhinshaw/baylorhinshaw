@@ -1,7 +1,4 @@
 # Hi , I'm [Baylor][portfolio] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## I'm a Software Engineer, currently finishing a full stack coding bootcamp at Georgia Tech University [🐝][course]
-- 🥳 I finish the bootcamp February 2022 
 - 📝 Striving to improve everyday 
 
 ### Connect with me:
